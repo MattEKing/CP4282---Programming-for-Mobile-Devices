@@ -1,0 +1,27 @@
+.movie {
+    background-color: rgb(224, 224, 224);
+    color: black;
+    flex-direction: column;
+    display: inline-flex;
+    margin-top: 2em;
+    margin-left: 2em;
+    margin-right: 2em;
+    margin-bottom: 2em;
+    border-radius: 8px;
+    padding: 10px;
+    min-width: 250px;
+    max-width: 500px;
+    width: auto;
+    border: 5px goldenrod;
+    border-style: solid;
+
+}
+
+img {
+   height: 600px;
+   width: 400px;
+   border: 8px;
+   border-color: #073642;
+   border-style: solid;
+   border-radius: 8px;
+}

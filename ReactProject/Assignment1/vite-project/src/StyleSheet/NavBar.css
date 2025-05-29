@@ -1,0 +1,19 @@
+:root {
+background-color: #073642;
+}
+
+body {
+    display: inline;
+}
+h2 {
+    margin-left: 20px;
+}
+#Nav {
+    border-radius: 8px;
+    background-color:  #3f585e;
+    overflow: hidden;
+    flex-direction: row;
+    display: flex;
+    justify-content: space-between;
+
+}
